@@ -2821,7 +2821,6 @@ revision3.com##.scrolled
 inverse.com##.scrollspy.nws-ov
 frameboxxindore.com##.scrolltop
 time.com##.sec-sub-teaser
-geekdashboard.com##.section--download
 newsok.com##.section-nav-arrow
 back9network.com##.section-promotion
 clubcall.com##.section-sticky-footer
@@ -3392,7 +3391,7 @@ apkmirror.com##.apkm-timed-slider
 nature.com##.app-featured-row__item
 disk.yandex.com##.app-promo-banner
 aarp.org##.backgroundParsys
-freecodecamp.org,monkeytype.com##.banner
+freecodecamp.org,monkeytype.com,singsnap.com##.banner
 flaticon.com##.banner-campaign
 bitfinex.com##.banners-banner
 billboard.com##.bb-pro-promotional-banner
@@ -3540,6 +3539,7 @@ aarp.org##.section.membership
 news.crunchbase.com##.see-plans-cta
 spiked-online.com##.sell-wrap
 aarp.org##.sharp-c-configurable-carousel__slide--multi
+shazam.com##.shz-frame-promotionbanner
 thedrum.com##.signup-cta
 thedrum.com##.signup-cta__sidebar
 propublica.org##.site-header__banner-link
@@ -3571,6 +3571,7 @@ thenextweb.com##.tnw-ad-wrapper
 truthout.org##.to4-donate-trigger
 healthday.com##.top-bar-promo
 redstate.com##.tp-container-inner
+flightradar24.com##.upgrade-button
 dailystar.co.uk,derbytelegraph.co.uk,walesonline.co.uk##.vf-conversation-starter
 vigilantcitizen.com##.vigil-after-article
 techguide.com.au##.w-nt.h-ni
@@ -3667,7 +3668,7 @@ baystatebanner.com###scroll-back
 thebugle.co.za###scroll-btn
 arcady.tv###scroll-down
 toggle.sg###scroll-top-button
-indiatimes.com,marketbusinessnews.com,philstar.com###scrollTop
+indiatimes.com,marketbusinessnews.com,philstar.com,timesnownews.com###scrollTop
 myfaith.tv###scroll_top
 weathernationtv.com###scroller
 gigaset.com,miui.com,mytheresa.com###scrolltop

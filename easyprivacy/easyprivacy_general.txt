@@ -563,6 +563,7 @@
 /analytics-plugin/*
 /analytics-post-
 /analytics-pusher/*
+/analytics-reporter/*
 /analytics-savebt?
 /analytics-scripts.
 /analytics-sdk.
@@ -827,6 +828,7 @@
 /asknet_tracking.
 /aslog.php?
 /aspenanalytics.
+/ASPixel.js
 /aspstats/index.asp?
 /assets/analytics-
 /assets/analytics.
@@ -2038,6 +2040,7 @@
 /ga_footer.
 /ga_gwo.
 /ga_header.
+/ga_helper.
 /ga_keyword2.
 /ga_link_tracker_
 /ga_loader.
@@ -2954,6 +2957,7 @@
 /mint/?record
 /mint8/?
 /mintstats/?js
+/mistat-data/*
 /mistats/*
 /mixpanel-*.js
 /mixpanel-measurement.
@@ -3516,6 +3520,7 @@
 /processUserCookie?
 /prod-analytics.
 /prod-client-js-logger/*
+/prod-dataroid.
 /prod/log_preprocess
 /prod/ping?
 /prodtracker?
@@ -5162,6 +5167,7 @@
 /webtrekk_mediaTracking.
 /webtrekk_teaserTracking.
 /webtrends.min.
+/webtrends/webtrends.
 /WebTrendsAnalytics/*
 /wego.farmer.
 /weizenbock/dist/*

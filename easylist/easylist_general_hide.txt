@@ -5701,6 +5701,7 @@
 ###floatyContent
 ###flyingBottomAd
 ###foot-ad-1
+###foot-ad-wrap
 ###foot-add
 ###footAd
 ###footAdArea
@@ -9497,6 +9498,7 @@
 ##.PostSidebarAd
 ##.Post__ad
 ##.PremiumObitAdBar
+##.PrimisResponsiveStyle
 ##.PrintAd-Slider
 ##.ProductAd
 ##.PushDownAdPane
@@ -13271,6 +13273,7 @@
 ##.adsBannerLink
 ##.adsBelowHeadingNormal
 ##.adsBlock
+##.adsBlockContainerHorizontal
 ##.adsBot
 ##.adsBottom
 ##.adsBox
@@ -13574,6 +13577,7 @@
 ##.ads_under_fileinfo
 ##.ads_under_player
 ##.ads_unit
+##.ads_uol_728x90
 ##.ads_up
 ##.ads_up_big2
 ##.ads_upper_right_wrap
@@ -15855,6 +15859,7 @@
 ##.bookad
 ##.bookseller-header-advt
 ##.booster-ad
+##.bordered-ad
 ##.bostad
 ##.bot-728x90-ad
 ##.bot-affiliate
@@ -16911,6 +16916,7 @@
 ##.display_adv_show
 ##.display_advrst
 ##.div-google-adx
+##.div-insticator-ad
 ##.divAd
 ##.divAdright
 ##.divAdsBanner
@@ -18526,6 +18532,7 @@
 ##.innerad
 ##.innerpostadspace
 ##.inpostad
+##.inr_top_ads
 ##.ins_adwrap
 ##.insert-advert-ver01
 ##.insert-post-ads
@@ -18681,6 +18688,7 @@
 ##.js-advert-container
 ##.js-advert-upsell-popup
 ##.js-advertising__placeholder1
+##.js-adzone
 ##.js-anchor-ad
 ##.js-billboard-advert
 ##.js-cardview_ad-320x180
@@ -19437,6 +19445,7 @@
 ##.module-ads
 ##.module-advert
 ##.module-advertisement
+##.module-box-ads
 ##.module-image-ad
 ##.module-rectangleads
 ##.module-sponsored-ads
@@ -20429,6 +20438,7 @@
 ##.quotead
 ##.qzvAdDiv
 ##.r-ad
+##.r-pause-ad-container
 ##.r7ad
 ##.r_ad
 ##.r_ad_1
@@ -21828,6 +21838,7 @@
 ##.standalonead
 ##.standard-ad
 ##.standard-ad-container
+##.standard_ad_slot
 ##.star-ad
 ##.start__advertising_container
 ##.start__advertising_container_banner
@@ -22329,6 +22340,7 @@
 ##.topAdsLeftMid2
 ##.topAdsRight
 ##.topAdsRight2
+##.topAdsWrappper
 ##.topAdvBox
 ##.topAdvert
 ##.topAdvertisement
@@ -23202,6 +23214,7 @@
 ##[href*="incentrev.com/"] img
 ##[href="https://masstortfinancing.com"] img
 ##[href="https://ourgoldguy.com/contact/"] img
+##[href="https://www.masstortfinancing.com/"] > img
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://clicks.totemcash.com/"]
 ##[href^="http://globsads.com/"]
@@ -23230,6 +23243,7 @@
 ##[href^="https://clk.right-wing-health.com/"]
 ##[href^="https://cpa.10kfreesilver.com/"]
 ##[href^="https://detachedbates.com/"]
+##[href^="https://engine.gettopple.com/"]
 ##[href^="https://glersakr.com/"]
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
@@ -23603,6 +23617,7 @@
 ##a[href^="http://yads.zedo.com/"]
 ##a[href^="http://z1.zedo.com/"]
 ##a[href^="http://zevera.com/afi.html"]
+##a[href^="https://5hjdbfjfd5.monster/"]
 ##a[href^="https://a-ads.com/?partner="]
 ##a[href^="https://a-ads.com/campaigns/"]
 ##a[href^="https://a.adtng.com/"]
@@ -24259,6 +24274,7 @@
 ###outbrain_vertical
 ###sponsored-outbrain-1
 ##.Cheat__outbrain
+##.adv_outbrain
 ##.fake-container-for-outbrain-sticky
 ##.ht_outbrain
 ##.js-outbrain-container

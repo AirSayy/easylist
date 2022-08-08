@@ -2391,6 +2391,7 @@
 ###social_pi
 ###social_pinterest
 ###social_popup
+###social_pro_counter
 ###social_right
 ###social_room
 ###social_section
@@ -8613,6 +8614,7 @@
 ##.region-share-inner
 ##.region-social
 ##.region-social-links
+##.related-share
 ##.related-social
 ##.related-tweets
 ##.report-process-share
@@ -11783,6 +11785,7 @@
 ##.sticky-social-group
 ##.sticky-social-icons-lg
 ##.sticky-social-inside
+##.sticky-social-share
 ##.sticky-wrapper--likegate
 ##.stickyNav-social
 ##.stickyVerticalSocialContainer
@@ -12463,6 +12466,7 @@
 ##.uk-icon-twitter-square
 ##.uk-icon-xing
 ##.uk-icon-youtube
+##.uk-panel.menushare
 ##.ukbf-social
 ##.ul-social
 ##.ulFooterSocial
@@ -12749,6 +12753,7 @@
 ##.widget_do_shortcode_instagram_widget
 ##.widget_dpsp_social_media_follow
 ##.widget_easy_facebook_page_plugin
+##.widget_epcl_social
 ##.widget_essbsocialfollowerscounterwidget
 ##.widget_facebook-like-box
 ##.widget_facebook_box

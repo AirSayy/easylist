@@ -175,9 +175,13 @@
 ###download_app_banner_btn
 ###mn-app-banner
 ###smartbanner-desktop
+##.app-banner-header
 ##.branch-banner
 ##.c-install-banner
 ##.cept-banner-link
+##.footer__download-app-container
+##.gta-header-banner
+##.header-app-banner
 ##.js-openAppBox
 ##.smart-banner-download
 ##.smartbanner--android
