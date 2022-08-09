@@ -1945,6 +1945,7 @@
 ||pixelinteractivemedia.com^$third-party
 ||pixelpop.co^$third-party
 ||pixelrevenue.com^$third-party
+||pixels.ai^$third-party
 ||pixfuture.com^$third-party
 ||pjatr.com^$third-party
 ||pjtra.com^$third-party
@@ -1976,7 +1977,6 @@
 ||portfold.com^$third-party
 ||posst.co^$third-party
 ||postaffiliatepro.com^$third-party
-||postclickmarketing.com^$third-party
 ||posthog.com^$third-party
 ||prchecker.info^$third-party
 ||precisioncounter.com^$third-party

@@ -15073,6 +15073,7 @@
 ##.amp-ad
 ##.amp-ads
 ##.amp-ads-container
+##.amp-adv-wrapper
 ##.amp-sticky-ad-custom
 ##.amp-sticky-ads
 ##.amp-unresolved
@@ -15773,6 +15774,7 @@
 ##.blockAd300x97
 ##.blockAds
 ##.blockAdvertise
+##.block__ads__ad
 ##.block__advertising
 ##.block__advertising-content
 ##.block__advertising-header
@@ -16146,6 +16148,7 @@
 ##.c-ArticleAds
 ##.c-ad
 ##.c-ad--adStickyContainer
+##.c-ad--bigbox
 ##.c-ad--mobile-bigbanner
 ##.c-ad--rectangle
 ##.c-ad--text-only
@@ -17700,6 +17703,7 @@
 ##.google-advertisement
 ##.google-advertisement_txt
 ##.google-afc-wrapper
+##.google-bottom-ads
 ##.google-csi-ads
 ##.google-dfp-ad-caption
 ##.google-dfp-ad-label
@@ -17751,6 +17755,7 @@
 ##.googleAds_article_page_above_comments
 ##.googleAdsense
 ##.googleAdsense468x60
+##.googleAdsenseMiddle
 ##.googleAdv
 ##.googleAdv1
 ##.googleBannerWrapper
@@ -18769,6 +18774,7 @@
 ##.l-ad-top
 ##.l-ads
 ##.l-adsense
+##.l-article__ad
 ##.l-bottom-ads
 ##.l-grid--ad-card
 ##.l-header-advertising
@@ -23193,6 +23199,7 @@
 ##[class*="__adv-block"]
 ##[class^="Ad-adContainer"]
 ##[class^="AdvertisingSlot_"]
+##[class^="amp-ad-"]
 ##[class^="div-gpt-ad"]
 ##[data-ad-cls]
 ##[data-ad-manager-id]
@@ -24205,8 +24212,6 @@
 ##[id^="chp_ads_block"]
 ##div.fadeInDown[id$="____equal"][class$="____equal"]
 ! ampproject
-##.amp-ad-container
-##.amp-ad-wrapper
 ##.amp-adv-container
 ##.amp-flying-carpet-text-border
 ##.amp_ad_1

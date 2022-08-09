@@ -627,6 +627,8 @@
 ###aaCookieBanner
 ###aa_privacy_module
 ###ab-cookie-advice
+###ab-cookiemodule
+###ab-cookiemodule-opc
 ###ab1_cookie_bar
 ###abb-cookie-banner
 ###abe-gdpr
@@ -13558,6 +13560,7 @@
 ##.js-website-cookie-notification
 ##.js.tc-banner
 ##.jsCookieContainer
+##.jsCookieDiag
 ##.jsCookieWarning
 ##.jsCookies
 ##.jsCookiesAlert

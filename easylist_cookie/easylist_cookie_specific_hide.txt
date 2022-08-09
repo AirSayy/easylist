@@ -167,7 +167,6 @@ codedead.com###gatsby-focus-wrapper > .MuiAlert-standard
 play.google.com###gb > div[style*="background-color"]
 guideautoweb.com,harmilaw.com,marketfinance.com,tampabay.com,wikihow.com###gdpr
 facebookblueprint.com,mmtop200.com,thornburg.com###gdpr-consent
-groundtruth.com###gdpr-modal
 pofcosolution.com###gdprModal
 lloyd.com###globalerror
 draeger.com###globalnotification
@@ -449,6 +448,7 @@ fwg-vg-linz.de##.Mrku11502
 allinone.im,jsonquerytool.com##.MuiDialog-root
 bbb.org##.MuiDrawer-root
 sweetcombecottages.co.uk##.MuiPaper-elevation0.MuiAlert-standardInfo
+tvtv.us##.MuiPaper-elevation6[role="alert"]
 gpic.com##.MyConsent_Outer
 freewebsitetemplates.com,wilderssecurity.com##.Notices
 leti.com##.NoticesBox
@@ -666,7 +666,7 @@ wallpapershome.com##.cc-dialog
 download.pixelexperience.org##.cc-dismiss.cc-btn
 volcanoteide.com##.cc-grower
 smartbear.com##.cc-pop
-e-infra.com,wedolit.eu,zesty.tech##.cc-window
+e-infra.com,malaysiaairlines.com,wedolit.eu,zesty.tech##.cc-window
 gll.gg##.ccINgy
 solas.ie##.cc_dialog
 blocktechnology.eu##.cc_div
@@ -916,9 +916,8 @@ whatsnewonthenet.com##.gaoop
 themeflood.com##.gatewayContainer
 greatbigcanvas.com##.gbc-notifications
 gallup.com,strengthsquest.com##.gcb_35556
-aviationweek.com,metallica.com,phonemore.com##.gdpr
+aviationweek.com,metallica.com,phonemore.com,srilankan.com##.gdpr
 leapyear.io##.gdpr--modal
-alicecooper.com,econt.com##.gdpr-modal
 atlasstoked.com,franc-music-shop.com,papirbolt.com##.gdprModal
 downloadcrew.com##.ginger_banner
 brake-eng.com##.gl-cm
@@ -1013,7 +1012,6 @@ itv.com##.js-site-alert-content
 cgtn.com##.js-tools-dialog
 anker.com,kurasu.kyoto##.jsFixedMessage
 gettr.com##.jss121
-tvtv.us##.jss14
 gettr.com##.jss142
 guard.io##.jss50
 arcanys.com##.jss63
@@ -1027,6 +1025,7 @@ starwalk.space##.kCVdJs
 steller.co##.kDyVQY
 depop.com##.kXlWIL
 play.acast.com##.kaNSQD
+theculturetrip.com##.kcTwAg
 nreal.ai##.kcmHGd
 kdkcn.com##.kdk-cookie
 loxam.com##.khZIi
@@ -1087,6 +1086,8 @@ gametwist.com##.message__container
 runmap.net,wandermap.net##.messages
 foreignaffairs.com##.messages--container--bottom
 metrobankonline.co.uk##.metro-cookiebar__block
+malaysiaairlines.com##.mfp-bg
+malaysiaairlines.com##.mfp-wrap
 spotify.com##.mh-message-bar
 mitele.es##.mitele-consent
 transparency.org##.mk-c-modal
@@ -1413,6 +1414,7 @@ cmocro.com,toptests.co.uk##.toastify-bottom
 beepbeep.ie,matchpint.com.au##.top-0.fixed
 china-airlines.com,flyscoot.com##.top-bar
 skystore.com##.top-notification-container
+player.fm##.top-promo
 hankooktire.com##.top_ep_wrap
 buystuffdirect.com##.top_notice
 dahuasecurity.com##.top_tip_wrap
@@ -1609,7 +1611,7 @@ centrometeoitaliano.it,in.gr,oraridiapertura24.it,order-order.com##.qc-cmp2-cont
 !! ikea
 ikea.bg,ikea.com.cy,ikea.gr###required-cc
 !! .sliding-popup-bottom
-asobostudio.com,avvir.no,beko.fr,biorxiv.org,bportugal.pt,cam.ac.uk,ciee.org,circuitdigest.com,der-baecker-eifler.de,derprivatpatient.de,domradio.de,dtm.com,eluniversal.com.mx,europapark.de,europol.europa.eu,financialsense.com,gsis.gr,handballerd.hu,helsinginkaupunginorkesteri.fi,ilm.pri.ee,indstate.edu,intelligentcitieschallenge.eu,iphonefaq.org,iva.de,kodi.tv,land.nrw,lexcellence.swiss,ligainsider.de,mags.nrw,manner.com,medindia.net,metromadrid.es,muhabirce.de,nationalinterest.org,nibusinessinfo.co.uk,nnieuws.be,novartis.co.jp,nutella.com,orange.be,osmanlicakelam.net,ovomaltine.de,paihdelinkki.fi,paladinomedia.com,piaggiogroup.com,pioneer-car.eu,prestashop.com,psau.edu.sa,questionmark.com,radiosaw.de,rae.es,reinisfischer.com,sandoz.com.tr,sergeferrari.com,sonntagsblatt.de,stainlessgames.com,syfy.com,thuisarts.nl,timeshighereducation.com,tolisihoni.com,topuniversities.com,total.com,ucg.org,unesco.de,unicef.org,usccb.org,uwaterloo.ca,veganjunkfoodbar.com,veggiepeople.org,voltimum.de,waffengebraucht.at,weightwatchers.com,wildlifetrusts.org,worldpressphoto.org,zanzu.be,ziraatkatilim.com.tr,zuerich.com##.sliding-popup-bottom
+accessonline.com,asobostudio.com,avvir.no,beko.fr,biorxiv.org,bportugal.pt,cam.ac.uk,ciee.org,circuitdigest.com,der-baecker-eifler.de,derprivatpatient.de,domradio.de,dtm.com,eluniversal.com.mx,europapark.de,europol.europa.eu,financialsense.com,gsis.gr,handballerd.hu,helsinginkaupunginorkesteri.fi,ilm.pri.ee,indstate.edu,intelligentcitieschallenge.eu,iphonefaq.org,iva.de,kodi.tv,land.nrw,lexcellence.swiss,ligainsider.de,mags.nrw,manner.com,medindia.net,metromadrid.es,muhabirce.de,nationalinterest.org,nibusinessinfo.co.uk,nnieuws.be,novartis.co.jp,nutella.com,orange.be,osmanlicakelam.net,ovomaltine.de,paihdelinkki.fi,paladinomedia.com,piaggiogroup.com,pioneer-car.eu,prestashop.com,psau.edu.sa,questionmark.com,radiosaw.de,rae.es,reinisfischer.com,sandoz.com.tr,sergeferrari.com,sonntagsblatt.de,stainlessgames.com,syfy.com,thuisarts.nl,timeshighereducation.com,tolisihoni.com,topuniversities.com,total.com,ucg.org,unesco.de,unicef.org,usccb.org,uwaterloo.ca,veganjunkfoodbar.com,veggiepeople.org,voltimum.de,waffengebraucht.at,weightwatchers.com,wildlifetrusts.org,worldpressphoto.org,zanzu.be,ziraatkatilim.com.tr,zuerich.com##.sliding-popup-bottom
 !! .js--overlay
 alpha-tex.de,aromatico.de,bremer-gewuerzhandel.de,detomaso-watches.com,edampfer24.de,ffpshop.de,futononline.de,hoffmann-speedster.com,kiids.de,lanius.com,mister-lady.at,mister-lady.com,motorsportmarkt.de,sennerei-lehern.de,shop.berliner-kaffeeroesterei.de,toner-dumping.de,torten-boutique.de,velken.de##.js--overlay
 !! #cookies-block
@@ -1649,6 +1651,9 @@ naylorsfinance.com###gdproverlay
 gardenvillagebled.com,kck.si,lju-airport.si,ljubljana.si,maxi.si,mercator.si,mercatorgroup.si,nordica.ee,perutnina.com,prvahisa.si,terme-krka.com,visitljubljana.com,zale.si,zds.si###_iCD
 !! .modal only
 anpeandalucia.es,anpeasturias.es,anpecanarias.es,anpegalicia.es,crbinverbio.com,eldefensordelprofesor.es##.modal
+!! #gdpr-modal / .gdpr-modal
+arb.ro,autoobuv.sk,ecoxtrem.ro,educatiefinanciara.info,groundtruth.com,metropolitanresidence.ro,openpolitics.ro,redis.org,tigernails.ro,traineedagen.se,trendresidence.ro###gdpr-modal
+alicecooper.com,altaposten.no,econt.com,peoplefone.lt##.gdpr-modal
 !! .gdpr-container
 hhmi.org,smugmug.com,xvpn.io##.gdpr-container
 !! cdk-overlay-container

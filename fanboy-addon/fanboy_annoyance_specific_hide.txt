@@ -44,8 +44,8 @@ readwriteweb.com###Subscribe
 thefreewarejunkie.com###Subscribe1
 getprice.com.au###SurveySlider3
 247wallst.com,theweek.com###TB_load
-247wallst.com,e-reader-info.com,foreignpolicy.com,hotklix.com,searchengineland.com,seatguru.com,theblaze.com,theweek.com,variety.com###TB_overlay
-247wallst.com,e-reader-info.com,foreignpolicy.com,hotklix.com,searchengineland.com,seatguru.com,theblaze.com,theweek.com,variety.com###TB_window
+247wallst.com,e-reader-info.com,foreignpolicy.com,hotklix.com,seatguru.com,theblaze.com,theweek.com,variety.com###TB_overlay
+247wallst.com,e-reader-info.com,foreignpolicy.com,hotklix.com,seatguru.com,theblaze.com,theweek.com,variety.com###TB_window
 timeanddate.com###TMI
 newser.com###ToolsHider
 bing.com###UpsellBubble
@@ -479,7 +479,6 @@ taipeitimes.com###fc
 reference.com###fcrds
 upi.com###fdbk_side
 spring.org.uk###feature_box
-searchengineland.com###featured
 variety.com###featured-jobs-template
 cssdeck.com,finda.co.nz,kat.ph###feedback
 digg.com###feedback-bar
@@ -2603,7 +2602,6 @@ atheistrepublic.com##.pane-aweber-webform
 itworld.com##.pane-itw-blocks-itw-ad10-itjobs
 fiercewireless.com##.pane-library-stack
 fiercewireless.com##.pane-pusher-ad
-searchengineland.com##.panel
 stuff.co.nz##.parsys > .parbase
 businessinsider.com##.partner-thanks
 eater.com##.partners
@@ -3379,6 +3377,7 @@ marieclaire.com.au##.MagDriver
 disk.yandex.com##.PSHeader-Center
 zerohedge.com##.TheMarketEarHomePageSidebar_container__dCIOv
 aarp.org##.aarpe-site-banner
+turners.co.nz##.ad-container
 newrepublic.com##.ad-container-house
 csmonitor.com##.ad-login
 universetoday.com##.adv-link
@@ -3485,6 +3484,7 @@ euobserver.com##.membership-upsell
 vg247.com##.merch_component
 finecooking.com##.meter-bar
 moneyweb.co.za##.mny-promo-popup
+livemint.com##.mobNavTab
 disk.yandex.com##.mobile-badges
 propublica.org##.module-donate
 last.fm##.mpu-subscription-upsell
@@ -3499,6 +3499,7 @@ skeptoid.com##.noprint > td
 infoq.com##.notice
 designtaxi.com##.nt-displayboard
 foodnetwork.com##.o-FullAttribution
+amp.thehackernews.com##.offers
 thepeterboroughexaminer.com,therecord.com,thespec.com,wellandtribune.ca##.overlay
 independentaustralia.net##.panelSubscription
 blizzardwatch.com##.patreon-sidebar
@@ -3555,6 +3556,7 @@ indiatimes.com##.stickyBand
 thebulwark.com##.store-footer
 newsweek.com##.subscribe-block-wrapper
 time.com##.subscription-cta
+bigbangnews.com##.sumate
 codastory.com##.support
 stuff.co.nz##.support-brief-container
 stuff.co.nz##.supporter-wrapper

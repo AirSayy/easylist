@@ -471,6 +471,7 @@ infogreffe.fr##.dijitDialogUnderlayWrapper
 tdl.fr##.dimmer
 vanguardinvestments.fr##.disclaimer_box
 lelivrescolaire.fr##.dzBQEB
+molotov.tv##.eRnhI
 aeg-powertools.eu##.exarIq
 economiecirculaire.org##.ext-el-mask
 poool-staging.fr##.fade-in-enter-done
@@ -586,6 +587,7 @@ primetech.bg##div[style^="color: rgb(51, 51, 51); text-align: center;"]
 ! ---------- Chinese ----------
 !
 4gtv.tv,ftv.com.tw,ftvnews.com.tw###Allow
+dailyview.tw###PrivacyAlert
 on.cc###acceptDisclaimer
 flender.com.cn###cboxOverlay
 5230.com.tw,china-motor.com.tw,gem-man.com.tw,longchain.com.tw,mitsubishi-motors.com.tw###cmc8007
@@ -638,6 +640,7 @@ ruggon.com.tw##.privacy_box
 u-car.com.tw##.privacyforsite
 skbank.com.tw##.space-mobile-inside-side
 app.mycard520.com.tw##.spu-bg
+accupass.com##.style-746d86c4-cookie-container
 abnova.com.tw##.ui-dialog
 abnova.com.tw##.ui-widget-overlay
 !
@@ -1403,7 +1406,6 @@ eismoinfo.lt###consent
 hertz.lt###light-box-1
 vokiskaideja.lt##.basicLightbox
 le.lt##.cookie
-peoplefone.lt##.gdpr-modal
 gritija.lt##.gdprModal
 lidl.lt##.notification
 vejutechnika.lt##.parent-container-idgy
@@ -1429,7 +1431,6 @@ smakmagasinet.no##.coco-wrapper
 kitchentime.no,parat.com##.cookie
 lexus.no##.disclaimer
 ruter.no##.fixed-messages
-altaposten.no##.gdpr-modal
 sveip.no##.kake_wrap
 forsvaret.no##.message-bar
 dnbeiendom.no,elektroskandia.no##.modal-backdrop
@@ -1806,7 +1807,6 @@ monitoruljuridic.ro,radcom.ro,revistablogurilor.ro,vandpieseauto.com###cookie
 agrointel.ro,asauto.ro,autopitonline.ro,f5auto.ro,onauto.ro,piese-auto-oradea.ro,sawauto.ro,vest-auto.ro###cookies
 pajurca.ro###cookiesmodal
 barocca.ro###gdpr
-arb.ro,ecoxtrem.ro,educatiefinanciara.info,metropolitanresidence.ro,openpolitics.ro,tigernails.ro,trendresidence.ro###gdpr-modal
 ilike-it.ro###onetrust-consent-sdk
 mediafax.ro###ot-sdk-btn
 fiscalitatea.ro,portalinvatamant.ro,portalprotectiadatelor.ro###terms
@@ -2000,7 +2000,6 @@ ctshop.rs##[style^="position: fixed; bottom: 0px;"]
 stanceldavid.sk###cc_div
 digitel.sk,ladel.sk,osetrovatelstvo.eu###cookies
 lemon-school.sk###gdpr-consent
-autoobuv.sk###gdpr-modal
 akcneletaky.sk###infoCoo
 majkl3d.sk##.CA
 eks.sk##.alert
@@ -2190,7 +2189,6 @@ alde.se###cc--main
 kb.se,skanetrafiken.se###cookie
 risskov.se###cookiemodal
 veckonr.se###gdpr-consent
-traineedagen.se###gdpr-modal
 greencounsel.se###getCookieConsentDialog
 apricon.se###glass
 hotellhudik.se,strandhotel.se###mb_modules_popups_Container
@@ -2301,6 +2299,7 @@ socratesdergi.com##.CookieBanner_base__AA9VL
 oz.av.tr##.Legal
 columbia.com.tr##.MuiCollapse-wrapperInner
 pariyer.com##.Rules
+garantibbva.com.tr,ustabilir.com##.alert
 apigo.com.tr##.ant-notification
 aksam.com.tr,star.com.tr##.bottom-0.fixed
 ikonambalaj.com.tr##.bottom-center

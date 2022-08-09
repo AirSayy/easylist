@@ -35,3 +35,23 @@ amp.reddit.com##.upsell_banner
 flipboard.com##.modal-overlay
 flipboard.com##body:style(overflow: visible!important; position: static!important;)
 flipboard.com##.outbound-link.button--primary
+! behance.net (in-app overlay)
+behance.net##.js-vue-mobile-app-upsell
+behance.net##body,html:style(overflow: auto !important; position: initial !important;)
+behance.net##.PrimaryNav-appLinkContainer-bhx
+! ifunny (in-app overlay)
+ifunny.co##.aq4y._0sJI
+ifunny.co##body,html:style(overflow: auto !important; position: initial !important;)
+! trip.com (app download overlay)
+trip.com##.tcp-h5-install-pop
+trip.com##body,html:style(overflow: auto !important; position: initial !important;)
+! player.fm
+player.fm##.bottom-promo-overlay
+player.fm##.bottom-promo
+player.fm##body,html:style(overflow: auto !important; position: initial !important;)
+! m.economictimes.com
+m.economictimes.com###prominentOverlay
+m.economictimes.com##body,html:style(overflow: auto !important; position: initial !important;)
+! m.yelp.com
+m.yelp.com##.overlay__09f24__ApBaK
+m.yelp.com##body,html:style(overflow: auto !important; position: initial !important;)
